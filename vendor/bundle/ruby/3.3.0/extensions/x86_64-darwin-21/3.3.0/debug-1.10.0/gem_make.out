@@ -1,0 +1,20 @@
+current directory: /Users/musa/social-media+network_2000/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+/Users/musa/.asdf/installs/ruby/3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/musa/social-media+network_2000/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250419-21166-lftcio sitelibdir\=./.gem.20250419-21166-lftcio clean
+
+current directory: /Users/musa/social-media+network_2000/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250419-21166-lftcio sitelibdir\=./.gem.20250419-21166-lftcio
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/musa/social-media+network_2000/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250419-21166-lftcio sitelibdir\=./.gem.20250419-21166-lftcio install
+/usr/local/bin/ginstall -c -m 0755 debug.bundle ./.gem.20250419-21166-lftcio/debug
+
+current directory: /Users/musa/social-media+network_2000/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250419-21166-lftcio sitelibdir\=./.gem.20250419-21166-lftcio clean

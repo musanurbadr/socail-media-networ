@@ -1,0 +1,19 @@
+current directory: /Users/musa/social-media+network_2000/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/musa/.asdf/installs/ruby/3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/musa/social-media+network_2000/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250419-21166-6bmx54 sitelibdir\=./.gem.20250419-21166-6bmx54 clean
+
+current directory: /Users/musa/social-media+network_2000/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250419-21166-6bmx54 sitelibdir\=./.gem.20250419-21166-6bmx54
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/musa/social-media+network_2000/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250419-21166-6bmx54 sitelibdir\=./.gem.20250419-21166-6bmx54 install
+/usr/local/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20250419-21166-6bmx54/skiptrace/internal
+
+current directory: /Users/musa/social-media+network_2000/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250419-21166-6bmx54 sitelibdir\=./.gem.20250419-21166-6bmx54 clean
